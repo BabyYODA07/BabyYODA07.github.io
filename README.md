@@ -35,7 +35,7 @@ A dark mode toggle is available no matter where your user is on the site. Not qu
 
     ```shell
     # create a new Gatsby site using the gatsby-starter-personal-portfolio starter
-    npm install node-sass@latest
+    npm install node-sass@9.0.0
     gatsby new my-site v
     ```
 
