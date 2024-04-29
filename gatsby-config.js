@@ -42,16 +42,16 @@ const moment = require("moment");
 
 module.exports = {
   siteMetadata: {
-    title: `gmlunesa`,
-    description: `Official site of Goldy Mariz Lunesa, a software engineer who enjoys writing code and dreaming of electric sheep.`,
-    author: `Goldy Mariz Lunesa | @gmlunesa`,
-    image: `https://raw.githubusercontent.com/gmlunesa/gmlunesa.github.io/development/src/images/ogimage.png`,
-    url: `https://gmlunesa.com`,
-    siteUrl: `https://gmlunesa.com`,
+    title: `babyyoda07`,
+    description: `Official site of baby yoda  zero seven, a IT student who is trying to figure out how github works without watching tutorials or google searching it like a pro.`,
+    author: `Baby Yoda Zero Seven | @babyyoda07`,
+    image: `https://raw.githubusercontent.com/babyyoda07/babyyoda07.github.io/development/src/images/ogimage.png`,
+    url: `https://babyyoda07.github.io`,
+    siteUrl: `https://babyyoda07.github.io`,
     keywords: [
-      "software engineer",
-      "net developer Philippines",
-      "Goldy Mariz Lunesa",
+      "IT Student",
+      "Studying Infomation Technology",
+      "Baby Yoda Zero Seven",
     ],
   },
   plugins: [
@@ -69,13 +69,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gmlunesa`,
-        short_name: `gmlunesa`,
+        name: `babyyoda07`,
+        short_name: `babyyoda07`,
         start_url: `/`,
         background_color: `#1b1c1e`,
         theme_color: `#1b1c1e`,
         display: `minimal-ui`,
-        icon: `src/images/gmlunesa-logo.svg`, // This path is relative to the root of the site.
+        icon: `src/images/babyyoda07-logo.svg`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-sitemap`,
@@ -112,9 +112,9 @@ module.exports = {
     //           allMarkdownRemark.edges.map((e) => createRssPost(e, site)),
     //         query: rssPostQuery,
     //         output: "/rss.xml",
-    //         title: "Goldy Mariz Lunesa's Blog",
+    //         title: "Baby Yoda Zero Seven's Blog",
     //         description:
-    //           "A collection of Goldy Mariz Lunesa's digitized thoughts and musings, now accessible over the cyber web space.",
+    //           "A collection of Babyyoda07's digitized thoughts and musings, now accessible over the cyber web space.",
     //       },
     //     ],
     //   },
@@ -145,7 +145,7 @@ module.exports = {
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
-          "G-0B2DCVGLMJ", // Google Analytics / GA
+          "", // Google Analytics / GA
         ],
       },
     },
