@@ -1,7 +1,7 @@
 {
-  "name": "gmlunesa.github.io",
+  "name": "BabyYODA07.github.io",
   "version": "2.0.1",
-  "description": "A portfolio website of Goldy Mariz Lunesa",
+  "description": "A portfolio website of Baby Yoda Zero Seven",
   "scripts": {
     "build": "gatsby build",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gmlunesa/gmlunesa.github.io.git"
+    "url": "git+https://github.com/BabyYODA07/BabyYODA07.github.io.git"
   },
   "keywords": [
     "gatsby",
-    "gmlunesa"
+    "BabyYODA07"
   ],
-  "author": "Goldy Mariz Lunesa <gmlunesa@gmail.com>",
+  "author": "Baby Yoda Zero Seven <BabyYODA07@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gmlunesa/gmlunesa.github.io/issues"
+    "url": "https://github.com/BabyYODA07/BabyYODA07.github.io/issues"
   },
-  "homepage": "https://github.com/gmlunesa/gmlunesa.github.io#readme",
+  "homepage": "https://github.com/BabyYODA07/BabyYODA07.github.io#readme",
   "dependencies": {
     "@headlessui/react": "^1.6.3",
     "@heroicons/react": "^1.0.6",
